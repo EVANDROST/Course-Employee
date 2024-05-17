@@ -1,0 +1,14 @@
+C:\Temp\Projetos\Course-Employee\Course-Employee\bin\Debug\net8.0\Course-Employee.exe
+C:\Temp\Projetos\Course-Employee\Course-Employee\bin\Debug\net8.0\Course-Employee.deps.json
+C:\Temp\Projetos\Course-Employee\Course-Employee\bin\Debug\net8.0\Course-Employee.runtimeconfig.json
+C:\Temp\Projetos\Course-Employee\Course-Employee\bin\Debug\net8.0\Course-Employee.dll
+C:\Temp\Projetos\Course-Employee\Course-Employee\bin\Debug\net8.0\Course-Employee.pdb
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.AssemblyInfoInputs.cache
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.AssemblyInfo.cs
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.dll
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\refint\Course-Employee.dll
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.pdb
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\Course-Employee.genruntimeconfig.cache
+C:\Temp\Projetos\Course-Employee\Course-Employee\obj\Debug\net8.0\ref\Course-Employee.dll
